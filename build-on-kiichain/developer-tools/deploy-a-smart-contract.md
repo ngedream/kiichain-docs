@@ -293,3 +293,33 @@ Finally, select Deploy Now and accept the transaction in your wallet.
 ### Confirming Smart Contract on Explorer App
 
 Remember that you can check the smart contracts Deployed [here](https://app.kiiglobal.io/smart-contracts).
+
+### Troubleshooting — Remix on Oro (Testnet, Chain ID 1336)
+
+If a Remix deploy shows **“Transaction mined but execution failed (status 0x0)”**, set:
+- **Solidity Compiler → EVM Version = `london`**
+- **Optimizer: enabled (200 runs)**
+- **Disable `viaIR`** (if it was enabled)
+
+Re-compile, then deploy again on **KiiChain Testnet (Oro, chainId 1336)**.
+This avoids newer EVM opcodes not yet supported by Oro.
+
+#### Hardhat — KiiChain Oro Network
+
+```ts
+// hardhat.config.ts
+import { HardhatUserConfig } from "hardhat/config";
+import "@nomicfoundation/hardhat-toolbox";
+
+const config: HardhatUserConfig = {
+  solidity: { version: "0.8.20", settings: { optimizer: { enabled: true, runs: 200 } } },
+  networks: {
+    kiichain: {
+      url: "https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com/",
+      chainId: 1336,
+      // accounts: [process.env.PRIVATE_KEY!], // use .env, never hardcode keys
+    },
+  },
+};
+export default config;
+

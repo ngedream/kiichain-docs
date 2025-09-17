@@ -32,7 +32,7 @@ Awesome, nice work! Your wallet has been created. Make sure you store your keys 
 
 Wallets like MetaMask and Keplr can be manually connected to various testnets. MetaMask supports EVM-compatible blockchains, and at default, is set to the Ethereum network. You will need to manually connect to the KiiChain network.
 
-The link can be done though multiple sources:
+The link can be done through multiple sources:
 
 * [Kiichain Testnet Page](https://kiichain.io/testnet)
 * [Explorer App](https://explorer.kiichain.io/testnet)

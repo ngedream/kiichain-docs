@@ -14,7 +14,7 @@ For on-chain activities, activations, airdrops and more, join our open testnet h
 
 ### Get a wallet in Testnet
 
-Testnet Oro supports wallet connections with EVM and Cosmos based wallets like MetaMask and Keplr . To set up a wallet, make sure you have the MetaMask or Keplr wallet extension downloaded in your web browser. MetaMask supports extension downloads for the following web browsers: Chrome, Firefox, Brave, Edge and Opera. Kelpr supports wallets in Chrome, Firefox and Edge.
+Testnet Oro supports wallet connections with EVM and Cosmos based wallets like MetaMask and Keplr. To set up a wallet, make sure you have the MetaMask or Keplr wallet extension downloaded in your web browser. MetaMask supports extension downloads for the following web browsers: Chrome, Firefox, Brave, Edge and Opera. Keplr supports wallets in Chrome, Firefox and Edge.
 
 For further explanation of how to set up your wallet, follow the steps [here](https://docs.kiiglobal.io/docs/getting-started/set-up-a-web-wallet) or connect your testnet wallet to our explorer app automatically by following the steps [here](https://docs.kiiglobal.io/docs/getting-started/connect-wallet-to-explorer-app).
 

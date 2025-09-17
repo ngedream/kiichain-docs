@@ -16,7 +16,7 @@ Go to [https://explorer.kiichain.io](https://app.kiiglobal.io/) and make sure yo
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-06 at 1.07.24 PM.png" alt="" width="365"><figcaption></figcaption></figure>
 
-For setting up a web wallet, see "[Set Up a Web Wallet](https://docs.kiiglobal.io/docs/getting-started/set-up-a-web-wallet)[t](https://docs.kiiglobal.io/docs/getting-started/set-up-a-web-wallet)".  Once your wallet has been created, you can link it to the explorer app by clicking the wallet icon in the top right corner.&#x20;
+For setting up a web wallet, see "[Set Up a Web Wallet](https://docs.kiiglobal.io/docs/getting-started/set-up-a-web-wallet)".  Once your wallet has been created, you can link it to the explorer app by clicking the wallet icon in the top right corner.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-06 at 1.08.35 PM.png" alt="" width="423"><figcaption></figcaption></figure>
 

@@ -7,7 +7,7 @@ hidden: true
 
 ### **Download Kii Mobile on the App Store or Google Play**
 
-Mobile wallets are currently in deployment mode for Testnet Oro. Mobile wallets are available on the App Store and Google Play for users who would like to have access to the basic functions of the chain. Within the mobile wallet, users can login via email or manage their 24 set word keys.&#x20;
+Mobile wallets are currently in deployment mode for Testnet Oro, and available on the App Store and Google Play for users who would like to have access to the basic functions of the chain. Within the mobile wallet, users can login via email or manage their 24‑word seed phrase.&#x20;
 
 Apple Store: [https://apps.apple.com/us/app/kii-mobile/id6474740411](https://apps.apple.com/us/app/kii-mobile/id6474740411)
 
