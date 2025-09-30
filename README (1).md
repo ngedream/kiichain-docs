@@ -20,9 +20,9 @@ immediate settlement to the most popular FX and RWA pairs using non-dollar stabl
 
 The Cosmos SDK is an open-source framework for building multi-asset public Proof-of-Stake (PoS) blockchains, like the Cosmos Hub.The goal of the Cosmos SDK is to allow developers to easily create custom blockchains from scratch that can natively interoperate with other blockchains. We envision the Cosmos SDK as the npm-like framework to build secure blockchain applications on top of CometBFT. SDK-based blockchains are built out of composable modules, most of which are open-source and readily available for any developers to use. The Cosmos SDK is a capabilities-based system that allows developers to better reason about the security of interactions between modules. Learn more about Cosmos [here](https://docs.cosmos.network/).
 
-### Comet BFT & Tendermint Core
+### CometBFT & Tendermint Core
 
-Comet BFT (Byzantine Fault Tolerant) is the upgraded version of Tendermint Core, the Interchain's consensus mechanism that powers Cosmos SDK blockchain systems. Comet BFT has a modular architecture that separates the consensus engine from the application layer, allowing developers to build custom blockchain applications easily. It offers fast transaction finality and high throughput, making it ideal for applications that require quick and reliable performance. Learn more about Comet BFT [here](https://cometbft.com/).
+CometBFT (Byzantine Fault Tolerant) is the upgraded version of Tendermint Core, the Interchain consensus mechanism that powers Cosmos SDK blockchain systems. CometBFT has a modular architecture that separates the consensus engine from the application layer, allowing developers to build custom blockchain applications easily. It offers fast transaction finality and high throughput, making it ideal for applications that require quick and reliable performance. Learn more about CometBFT [here](https://cometbft.com/).
 
 ### Proof-of-Stake
 
